@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm an impact-driven ML/AI Engineer with 3+ years of production software engineering experience, specializing in LLM and RAG solutions. Based in Boulder, CO, I'm passionate about building robust, scalable AI pipelines that deliver measurable business impact.
 
-- 🔭 I'm currently working as a Software Engineer AI Platform Intern at Kamiwaza AI
+- 🔭 I'm currently working as a Software Engineer AI Platform Intern at [Kamiwaza AI] (https://www.kamiwaza.ai/)
 - 🌱 I've developed high-performance LLM data pipelines for financial document processing at [TIFIN Group](https://tifin.com/)
 - 💼 I have 3 years of backend engineering experience at Citi, where I worked on trade processing systems and intraday reporting services
 - 📕 I'm pursuing my MS in Computer Science at University of Colorado, Boulder (GPA: 4.0/4.0)
