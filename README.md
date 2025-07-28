@@ -3,8 +3,8 @@
 ## 🚀 About Me
 I'm an impact-driven ML/AI Engineer with 3+ years of production software engineering experience, specializing in multi-agent architectures, RAG systems and LLM based applications. Based in Boulder, CO, I'm passionate about building robust, scalable AI pipelines that deliver measurable business impact.
 
-- 🔭 I'm currently working as an AI/ML Engineer, building intelligent multi-agent systems and production-grade LLM applications at [TIFIN Group](https://tifin.com/).
-- ⚙️ I've developed a Graph based-RAG system for unstructured documents at [Kamiwaza AI](https://www.kamiwaza.ai/)
+- 🔭 I'm currently working as an AI Engineer, building intelligent multi-agent systems and production-grade LLM applications at [TIFIN Group](https://tifin.com/).
+- ⚙️ I've developed a Graph based-RAG system for processing unstructured documents at [Kamiwaza AI](https://www.kamiwaza.ai/)
 - 🌱 I've developed high-performance LLM data pipelines for financial document processing at [TIFIN Group](https://tifin.com/)
 - 💼 I have 3 years of backend engineering experience at [Citi](https://www.citi.com/), where I worked on trade processing systems and intraday reporting services
 - 📕 I graduated with a MS in Computer Science at University of Colorado, Boulder (GPA: 4.0/4.0)
